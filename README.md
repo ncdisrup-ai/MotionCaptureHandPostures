@@ -3,7 +3,7 @@ Classify  the motion capture from hand postures
 
   
 ## 🤔 What is this?
-**Description:**  Provide the best possible classification models Testing exclusively the following models_
+**Description:**  Provide the best possible classification models Testing exclusively the following models
 
 - Linear models
 - Tree Based models
@@ -66,6 +66,7 @@ Data with the projects (to train the model and to apply the model) are in data d
  
 Task Dataset: Motion Capture Hand Postures
 https://archive.ics.uci.edu/dataset/405/motion+capture+hand+postures
+
 The files 'Postures.csv' is provided
 
 5 types of hand postures from 12 users were recorded using unlabeled markers on fingers of a glove in a motion capture environment. Due to resolution and occlusion, missing values are common.
