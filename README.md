@@ -1,5 +1,5 @@
 # Motion Capture Hand Postures
-Classify  the motion capture from hand postures
+Classify  the motion capture from hand postures through supervised learning models
 
   
 ## 🤔 What is this?
